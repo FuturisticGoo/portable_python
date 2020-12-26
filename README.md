@@ -10,13 +10,13 @@ Each version has 2 zips - one with pip, setuptools, wheel installed and the othe
 
 ## Codes
 
-`wpsw` means it is __w__ith __p__ip, __s__etuptools, and __w__heel installed
+`wpsw` means it is **w**ith **p**ip, **s**etuptools, and **w**heel installed
 
-`wu6` means it is __w__ith [__u__ncompyle__6__](https://github.com/rocky/python-uncompyle6) installed. This zip doesn't contain pip, setuptools or wheel.
+`wu6` means it is **w**ith [**u**ncompyle**6**](https://github.com/rocky/python-uncompyle6) installed. This zip doesn't contain pip, setuptools or wheel.
 
 ## Important info
 
-pip only installs offline packages (`.whl`) in Python `2.6`, and needs to be invoked by python -m pip.\__main__ <command>
+pip only installs offline packages (`.whl`) in Python `2.6`, and needs to be invoked by python -m pip.\_\_main\_\_ <command>
 
 pip only installs offline packages (`.whl`) in Python `3.1,3.2,`.
 
