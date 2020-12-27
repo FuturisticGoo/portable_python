@@ -1,0 +1,3 @@
+wpsw = pip, setuptools and wheel only.txt
+wpsw_wu6 = both wpsw and wu6.txt
+wu6 = with uncompyle6 only.txt

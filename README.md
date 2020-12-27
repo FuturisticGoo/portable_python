@@ -6,13 +6,15 @@ This repository contains Python versions `2.6, 2.7, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6
 
 All of them are 32 bit for maximum compatibility, also this is Python for Windows, if that wasn't clear.
 
-Each version has 2 zips - one with pip, setuptools, wheel installed and the other with uncompyle6 installed. This is the resource for the project [UnPYC](https://github.com/FuturisticGoo/UnPYC). 
+Each version has 3 zips - one with pip, setuptools, wheel installed, another with uncompyle6 installed and another one with both installed. This is the resource for the project [UnPYC](https://github.com/FuturisticGoo/UnPYC). 
 
 ## Codes
 
 `wpsw` means it is **w**ith **p**ip, **s**etuptools, and **w**heel installed
 
 `wu6` means it is **w**ith [**u**ncompyle**6**](https://github.com/rocky/python-uncompyle6) installed. This zip doesn't contain pip, setuptools or wheel.
+
+`wpsw_wu6` means it is **w**ith **p**ip, **s**etuptools, **w**heel and **w**ith [**u**ncompyle**6**](https://github.com/rocky/python-uncompyle6) installed.
 
 ## Important info
 
