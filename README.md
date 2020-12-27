@@ -18,9 +18,9 @@ Each version has 3 zips - one with pip, setuptools, wheel installed, another wit
 
 ## Important info
 
-pip only installs offline packages (`.whl`) in Python `2.6`, and needs to be invoked by python -m pip.\_\_main\_\_ <command>
+pip only installs offline packages (`.whl`) in Python `2.6`, and needs to be invoked by python -m pip.\_\_main\_\_ `<command>`
 
-pip only installs offline packages (`.whl`) in Python `3.1,3.2,`.
+pip only installs offline packages (`.whl`) in Python `3.1,3.2`.
 
 pip will get deprecated in Python `2.7, 3.3, 3.4, 3.5`
 
@@ -28,7 +28,7 @@ Python `3.5 - 3.8` are [Python embedded](https://www.python.org/downloads/window
 
 ## License
 
-Python is licensed under [PSF license](https://docs.python.org/3/license.html), and Uncompyle6 is licensed under [GPL v3](https://github.com/rocky/python-uncompyle6/blob/master/COPYING). This project is under MIT License, but doesn't cover uncompyle6, where it has it's own license applies.
+Python is licensed under [PSF license](https://docs.python.org/3/license.html), and Uncompyle6 is licensed under [GPL v3](https://github.com/rocky/python-uncompyle6/blob/master/COPYING). This project is under MIT License, but doesn't cover uncompyle6, where it's own license applies.
 
 ## Contributing
 
